@@ -112,9 +112,50 @@ python app.py
 
 ## 📸 Screenshots
 
-Coming Soon... 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](images/login-page.png)
 
 ---
+
+### 📝 Register Page
+![Register Page](images/register-page.png)
+
+---
+
+### 🏠 Dashboard
+![Dashboard](images/dashboard.png)
+
+---
+
+### 🏋️ Workout Planner
+![Workout Planner](images/workout-planner.png)
+
+---
+
+### 🥗 Diet Recommendation
+![Diet Recommendation](images/diet-page.png)
+
+---
+
+### 🤖 AI Chatbot
+![AI Chatbot](images/chatbot.png)
+
+---
+
+### 📊 BMI Calculator
+![BMI Calculator](images/bmi-calculator.png)
+
+---
+
+### 👤 Profile
+![Profile](images/profile.png)
+
+---
+
+### 📈 Performance
+![Performance](images/performance.png)
 
 ## 🌟 Future Enhancements
 
